@@ -1,0 +1,1 @@
+OmeClone is to help people connect and socilize with each other.
